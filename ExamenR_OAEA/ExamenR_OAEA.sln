@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenR_OAEA", "ExamenR_OAEA.csproj", "{A9DA02D5-64D4-435F-B750-FE789DFB9BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9DA02D5-64D4-435F-B750-FE789DFB9BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9DA02D5-64D4-435F-B750-FE789DFB9BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9DA02D5-64D4-435F-B750-FE789DFB9BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9DA02D5-64D4-435F-B750-FE789DFB9BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4B165B1-CBA5-4E23-82C3-38BBF91B4628}
+	EndGlobalSection
+EndGlobal

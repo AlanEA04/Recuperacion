@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ExamenR_OAEA/1.0.0": {
+        "runtime": {
+          "ExamenR_OAEA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExamenR_OAEA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

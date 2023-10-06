@@ -1,0 +1,15 @@
+C:\Users\UTS-CDS\source\repos\ExamenR_OAEA\bin\Debug\net7.0\ExamenR_OAEA.exe
+C:\Users\UTS-CDS\source\repos\ExamenR_OAEA\bin\Debug\net7.0\ExamenR_OAEA.deps.json
+C:\Users\UTS-CDS\source\repos\ExamenR_OAEA\bin\Debug\net7.0\ExamenR_OAEA.runtimeconfig.json
+C:\Users\UTS-CDS\source\repos\ExamenR_OAEA\bin\Debug\net7.0\ExamenR_OAEA.dll
+C:\Users\UTS-CDS\source\repos\ExamenR_OAEA\bin\Debug\net7.0\ExamenR_OAEA.pdb
+C:\Users\UTS-CDS\source\repos\ExamenR_OAEA\obj\Debug\net7.0\ExamenR_OAEA.csproj.AssemblyReference.cache
+C:\Users\UTS-CDS\source\repos\ExamenR_OAEA\obj\Debug\net7.0\ExamenR_OAEA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UTS-CDS\source\repos\ExamenR_OAEA\obj\Debug\net7.0\ExamenR_OAEA.AssemblyInfoInputs.cache
+C:\Users\UTS-CDS\source\repos\ExamenR_OAEA\obj\Debug\net7.0\ExamenR_OAEA.AssemblyInfo.cs
+C:\Users\UTS-CDS\source\repos\ExamenR_OAEA\obj\Debug\net7.0\ExamenR_OAEA.csproj.CoreCompileInputs.cache
+C:\Users\UTS-CDS\source\repos\ExamenR_OAEA\obj\Debug\net7.0\ExamenR_OAEA.dll
+C:\Users\UTS-CDS\source\repos\ExamenR_OAEA\obj\Debug\net7.0\refint\ExamenR_OAEA.dll
+C:\Users\UTS-CDS\source\repos\ExamenR_OAEA\obj\Debug\net7.0\ExamenR_OAEA.pdb
+C:\Users\UTS-CDS\source\repos\ExamenR_OAEA\obj\Debug\net7.0\ExamenR_OAEA.genruntimeconfig.cache
+C:\Users\UTS-CDS\source\repos\ExamenR_OAEA\obj\Debug\net7.0\ref\ExamenR_OAEA.dll
